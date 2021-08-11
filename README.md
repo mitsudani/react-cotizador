@@ -3,7 +3,7 @@
 ## About the project
 
 This project is a car insurance calculator, following Udemy's couse: "React-La Guía Completa: Hooks Context Redux MERN +15 Apps" by Juan Pablo De la torre Valdez.
-Hosted at: https://upbeat-mclean-0c0acf.netlify.app/
+Hosted at: https://agitated-heisenberg-dcacdc.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
